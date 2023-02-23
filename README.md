@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Shopify Plus brand And Agency**
 
-- 👨‍💻 All of my projects are available at [bhavindomadiya.com](bhavindomadiya.com)
+- 👨‍💻 All of my projects are available at bhavindomadiya.com
 
 - 💬 Ask me about **Shopify, Custom Feature Development, UI/UX, API integration**
 
