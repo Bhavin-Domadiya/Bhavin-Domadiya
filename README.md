@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at bhavindomadiya.com
 
-- 💬 Ask me about **Shopify, Custom Feature Development, UI/UX, API integration**
+- 💬 Ask me about **Shopify, React.js, Custom Feature Development, UI/UX, API integration**
 
 - 📫 How to reach me **bhavindomadiya108@gmail.com**
 
